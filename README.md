@@ -3,10 +3,10 @@ Algorithms written in Python_3
 
 This repository has the following codes written in Python_3 :
 
-Single Linked_List_
-Double Linked_List_
-Circular Linked_List_
-KMP String Matching_
+Single Linked_List__
+Double Linked_List__
+Circular Linked_List__
+KMP String Matching__
 Basic Multi-Threading and Multi-Processing
 Prims Algorithm
 Quicksort Algorithm

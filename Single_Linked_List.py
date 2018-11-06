@@ -12,9 +12,7 @@ class node:
     def __init__(self,data = None):
         self.data = data
         self.next = None
-        
-
-        
+         
 class linkedlist:
     def __init__(self):
         self.head = node()
@@ -93,7 +91,7 @@ class linkedlist:
         
         
 # Input Section    
-# dll is a variable and can be anything        
+# sll is a variable and can be anything        
 sll = linkedlist()
 
 sll.append(1)     

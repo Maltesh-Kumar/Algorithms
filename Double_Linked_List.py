@@ -73,7 +73,8 @@ class doublelinkedlist:
                 print(cur.data)
             idx += 1
 
-# Adding values in any index in Linked_List            
+# Adding values in any index in Linked_List   
+# ci = current_index
     def add(self,index,value):
             if index+1 > self.length():
                 print("Not Possible")

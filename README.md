@@ -7,7 +7,7 @@ This repository has the following codes written in Python_3 :
 -Double Linked_List<br />
 -Circular Linked_List<br />
 -KMP String Matching<br />
--Basic Multi-Threading and Multi-Processing<br />
+-Basic Multi-Threading <br />
 -Prims Algorithm<br />
 -Quicksort Algorithm<br />
 -Tower_Of_Hanoi (Recursion)<br />

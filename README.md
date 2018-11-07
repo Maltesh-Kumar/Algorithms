@@ -13,5 +13,7 @@ This repository has the following codes written in Python_3 :
 -Tower_Of_Hanoi (Recursion)<br />
 -Factorial (Recursion)<br />
 -Fibonacci Series <br />
+-Depth First Search <br />
+-Breadth First Search <br />
 
 
